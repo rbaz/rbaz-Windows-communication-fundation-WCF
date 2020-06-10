@@ -1,0 +1,7 @@
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\bin\HDeskBellWCF.dll.config
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\bin\HDeskBellWCF.dll
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\bin\HDeskBellWCF.pdb
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\obj\Debug\HDeskBellWCF.csproj.CoreCompileInputs.cache
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\obj\Debug\HDeskBellWCF.dll
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\obj\Debug\HDeskBellWCF.pdb
+C:\Users\rochd\source\repos\HDeskBellWCFDemos\HDeskBellWCF\obj\Debug\HDeskBellWCF.csprojAssemblyReference.cache

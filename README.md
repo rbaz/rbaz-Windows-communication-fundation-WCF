@@ -5,7 +5,7 @@ Création d’un service RESTful aven utilisant WCF
 Windows Communication Foundation (WCF) est un Framework pour le développement et le déploiement de services sur Windows. 
 WCF fournit un plate forme d'exécution pour les services, ils permettent d'exposer et de consommer les types CLR en tant que services et les services en tant que types CLR.
 
-Prérequis
+# Prérequis
 Microsoft Visual Studio 2017 ou supérieur
 WCFTestClient.exe ou Postman pour tester notre API: https://www.getpostman.com/apps
 
@@ -16,7 +16,7 @@ Visual C# et sélectionnez WCF, puis Application de service WCF
 Configuration du fichier web.config
 
 
-Configuration du fichier web.config
+# Configuration du fichier web.config
 Ajouter le code ci-dessous dans la section <system.serviceModel>
 
       <system.serviceModel>
@@ -58,6 +58,6 @@ Ajouter le code ci-dessous dans la section <system.serviceModel>
   </system.serviceModel>
 
 
-Test avec WCFTestClient ou postman
+# Test avec WCFTestClient ou postman
 
 
